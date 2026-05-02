@@ -1,5 +1,4 @@
-# W26-AIGC5005 -- Final Project
-## Health Risk Classification in Medical Insurance
+# Health Risk Classification in Medical Insurance
 ## Group Members
 - Simardeep Kullar
 - Pravdeep Kullar
