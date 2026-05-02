@@ -1,13 +1,8 @@
 # W26-AIGC5005 -- Final Project
 ## Health Risk Classification in Medical Insurance
 ## Group Members
-
-| Name | Student ID |
-|---|---|
-| Simardeep Kullar | n10008693 |
-| Pravdeep Kullar | n01430968 |
-| Udeme Akpausoh | n01495603 |
-| Istikbal Turut | n01404444 |
+- Simardeep Kullar
+- Pravdeep Kullar
 
 ---
 
